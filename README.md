@@ -1,5 +1,9 @@
 # React Image Gallery
 An image gallery with features to add and delete images.
+ 
+# Link to hosted sit 
+
+https://labibrah.github.io/image-gallery
 
 # Video demonstration
 
@@ -25,7 +29,10 @@ git clone https://github.com/labibrah/image-gallery.git
 ## Setup
 
 
-In the project folder  run the command:
+In the project folder  run the commands:
+```
+npm init
+```
 ```
 npm install
 ```
