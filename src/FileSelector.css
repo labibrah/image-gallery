@@ -1,0 +1,28 @@
+.file-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px;
+}
+
+.file-grid div:hover{
+    -webkit-filter: brightness(90%);
+	-moz-filter: brightness(90%);
+	-o-filter: brightness(90%);
+	-ms-filter: brightness(90%);
+	filter: brightness(90%);
+}
+
+.file-item img {
+    width: 100%;
+    height: auto;
+    /* border : 2px solid rgb(117, 118, 118); */
+    border-radius: 8px;
+}
+
+/* .file-item img:hover{
+    -webkit-filter: brightness(90%);
+	-moz-filter: brightness(90%);
+	-o-filter: brightness(90%);
+	-ms-filter: brightness(90%);
+	filter: brightness(90%);
+} */
