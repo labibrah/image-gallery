@@ -3,6 +3,7 @@ An image gallery with features to add and delete images.
 
 # Video demonstration
 
+https://drive.google.com/file/d/1Dz_urdtF6JR4H5X2UexOeK7BosaSxtjJ/view?usp=drive_link
 
 ## Content of Contents
 
@@ -18,7 +19,7 @@ An image gallery with features to add and delete images.
 To clone the repository from GitHub, in the directory you select run the following command:
 
 ```
-git clone https://github.com/labibrah/React_Image_Gallery.git
+git clone https://github.com/labibrah/image-gallery.git
 ```
 
 ## Setup
