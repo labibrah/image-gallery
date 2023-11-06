@@ -1,7 +1,7 @@
 # React Image Gallery
 An image gallery with features to add and delete images.
  
-# Link to hosted sit 
+# Link to hosted site
 
 https://labibrah.github.io/image-gallery
 
