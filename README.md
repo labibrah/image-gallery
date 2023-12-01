@@ -1,6 +1,6 @@
 # React Image Gallery
 An image gallery with features to add and delete images.
- 
+![Alt text](/Preview.png) 
 # Link to hosted site
 
 https://labibrah.github.io/image-gallery
